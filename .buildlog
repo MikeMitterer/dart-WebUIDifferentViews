@@ -304,3 +304,13 @@ build.dart --machine --changed=src/main/webapp/app.html --changed=src/main/webap
 
 build.dart finished [200 ms]
 
+---
+build.dart --machine --changed=src/main/webapp/app.html_bootstrap.dart.js --changed=src/main/webapp/app.html_bo...
+
+build.dart finished [227 ms]
+
+---
+build.dart --machine --changed=src/main/webapp/app.html_bootstrap.dart.js --changed=src/main/webapp/app.html_bo...
+
+build.dart finished [247 ms]
+
