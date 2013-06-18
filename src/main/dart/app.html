@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+ 
+<html>
+  <head>
+    <meta charset="utf-8">
+    <title>A Complex Web UI Application-</title>
+    <link rel="stylesheet" href="assets/app.css">
+    
+    <!-- import the header and footer components -->
+    <link rel="import" href="views/header.html">
+    <link rel="import" href="views/footer.html">
+    
+    <!-- import the view components -->
+    <link rel="import" href="views/contact.html">
+    <link rel="import" href="views/products.html">
+  </head>
+  <body>
+    <header-component></header-component>
+    
+    <div id="view-container"></div>
+    
+    <button id="show-contact-button">show contact view</button>
+    <button id="show-products-button">show products view</button>
+ 
+    <footer-component></footer-component>
+    
+    <script type="application/dart" src="dart/app.dart"></script>
+    <script src="packages/browser/dart.js"></script>
+  </body>
+</html>

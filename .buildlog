@@ -1,0 +1,306 @@
+---
+build.dart --machine --full
+Total time spent on web/webuidifferentviews.html             -- 303 ms
+[{"method":"mapping","params":{"from":"web/webuidifferentviews.html","to":"web/out/webuidifferentviews.html"}}]
+Total time                                                   -- 326 ms
+build.dart finished [519 ms]
+
+---
+build.dart --machine --changed=web/app.css
+Total time                                                   --  16 ms
+build.dart finished [250 ms]
+
+---
+build.dart --machine --changed=web/app.dart
+Total time spent on web/webuidifferentviews.html             -- 288 ms
+[{"method":"mapping","params":{"from":"web/webuidifferentviews.html","to":"web/out/webuidifferentviews.html"}}]
+Total time                                                   -- 311 ms
+build.dart finished [511 ms]
+
+---
+build.dart --machine --changed=web/app.html
+Total time spent on web/webuidifferentviews.html             -- 299 ms
+[{"method":"mapping","params":{"from":"web/webuidifferentviews.html","to":"web/out/webuidifferentviews.html"}}]
+Total time                                                   -- 323 ms
+build.dart finished [598 ms]
+
+---
+build.dart --machine --changed=web/app.html
+Total time spent on web/webuidifferentviews.html             -- 266 ms
+[{"method":"mapping","params":{"from":"web/webuidifferentviews.html","to":"web/out/webuidifferentviews.html"}}]
+Total time                                                   -- 289 ms
+build.dart finished [495 ms]
+
+---
+build.dart --machine --changed=web/contact.dart
+Total time spent on web/webuidifferentviews.html             -- 283 ms
+[{"method":"mapping","params":{"from":"web/webuidifferentviews.html","to":"web/out/webuidifferentviews.html"}}]
+Total time                                                   -- 307 ms
+build.dart finished [504 ms]
+
+---
+build.dart --machine --changed=web/contact.dart
+Total time spent on web/webuidifferentviews.html             -- 288 ms
+[{"method":"mapping","params":{"from":"web/webuidifferentviews.html","to":"web/out/webuidifferentviews.html"}}]
+Total time                                                   -- 316 ms
+build.dart finished [532 ms]
+
+---
+build.dart --machine --changed=web/contact.html
+Total time spent on web/webuidifferentviews.html             -- 280 ms
+[{"method":"mapping","params":{"from":"web/webuidifferentviews.html","to":"web/out/webuidifferentviews.html"}}]
+Total time                                                   -- 304 ms
+build.dart finished [507 ms]
+
+---
+build.dart --machine --changed=web/contact.html
+Total time spent on web/webuidifferentviews.html             -- 266 ms
+[{"method":"mapping","params":{"from":"web/webuidifferentviews.html","to":"web/out/webuidifferentviews.html"}}]
+Total time                                                   -- 289 ms
+build.dart finished [485 ms]
+
+---
+build.dart --machine --changed=web/footer.html
+Total time spent on web/webuidifferentviews.html             -- 278 ms
+[{"method":"mapping","params":{"from":"web/webuidifferentviews.html","to":"web/out/webuidifferentviews.html"}}]
+Total time                                                   -- 302 ms
+build.dart finished [500 ms]
+
+---
+build.dart --machine --changed=web/footer.html
+Total time spent on web/webuidifferentviews.html             -- 268 ms
+[{"method":"mapping","params":{"from":"web/webuidifferentviews.html","to":"web/out/webuidifferentviews.html"}}]
+Total time                                                   -- 291 ms
+build.dart finished [486 ms]
+
+---
+build.dart --machine --changed=web/header.html
+Total time spent on web/webuidifferentviews.html             -- 277 ms
+[{"method":"mapping","params":{"from":"web/webuidifferentviews.html","to":"web/out/webuidifferentviews.html"}}]
+Total time                                                   -- 301 ms
+build.dart finished [499 ms]
+
+---
+build.dart --machine --changed=web/header.html
+Total time spent on web/webuidifferentviews.html             -- 268 ms
+[{"method":"mapping","params":{"from":"web/webuidifferentviews.html","to":"web/out/webuidifferentviews.html"}}]
+Total time                                                   -- 291 ms
+build.dart finished [488 ms]
+
+---
+build.dart --machine --changed=web/products.dart
+Total time spent on web/webuidifferentviews.html             -- 296 ms
+[{"method":"mapping","params":{"from":"web/webuidifferentviews.html","to":"web/out/webuidifferentviews.html"}}]
+Total time                                                   -- 321 ms
+build.dart finished [524 ms]
+
+---
+build.dart --machine --changed=web/products.dart
+Total time spent on web/webuidifferentviews.html             -- 303 ms
+[{"method":"mapping","params":{"from":"web/webuidifferentviews.html","to":"web/out/webuidifferentviews.html"}}]
+Total time                                                   -- 327 ms
+build.dart finished [610 ms]
+
+---
+build.dart --machine --changed=web/products.html
+Total time spent on web/webuidifferentviews.html             -- 280 ms
+[{"method":"mapping","params":{"from":"web/webuidifferentviews.html","to":"web/out/webuidifferentviews.html"}}]
+Total time                                                   -- 304 ms
+build.dart finished [505 ms]
+
+---
+build.dart --machine --changed=web/products.html
+Total time spent on web/webuidifferentviews.html             -- 265 ms
+[{"method":"mapping","params":{"from":"web/webuidifferentviews.html","to":"web/out/webuidifferentviews.html"}}]
+Total time                                                   -- 288 ms
+build.dart finished [488 ms]
+
+---
+build.dart --machine --changed=web/app.css --changed=web/app.dart
+[{"method":"warning","params":{"file":"web/app.html","message":"import syntax is changing, use rel=\"import\" instead of rel=\"components\".","line":10,"charStart":214,"charEnd":256}}]
+[{"method":"warning","params":{"file":"web/app.html","message":"import syntax is changing, use rel=\"import\" instead of rel=\"components\".","line":11,"charStart":261,"charEnd":303}}]
+[{"method":"warning","params":{"file":"web/app.html","message":"import syntax is changing, use rel=\"import\" instead of rel=\"components\".","line":14,"charStart":353,"charEnd":396}}]
+[{"method":"warning","params":{"file":"web/app.html","message":"import syntax is changing, use rel=\"import\" instead of rel=\"components\".","line":15,"charStart":401,"charEnd":445}}]
+Total time spent on web/app.html                             -- 340 ms
+[{"method":"mapping","params":{"from":"web/app.html","to":"web/out/app.html"}}]
+Total time                                                   -- 371 ms
+build.dart finished [586 ms]
+
+---
+build.dart --machine --changed=web/app.html
+[{"method":"warning","params":{"file":"web/app.html","message":"import syntax is changing, use rel=\"import\" instead of rel=\"components\".","line":11,"charStart":257,"charEnd":299}}]
+[{"method":"warning","params":{"file":"web/app.html","message":"import syntax is changing, use rel=\"import\" instead of rel=\"components\".","line":14,"charStart":349,"charEnd":392}}]
+[{"method":"warning","params":{"file":"web/app.html","message":"import syntax is changing, use rel=\"import\" instead of rel=\"components\".","line":15,"charStart":397,"charEnd":441}}]
+Total time spent on web/app.html                             -- 294 ms
+[{"method":"mapping","params":{"from":"web/app.html","to":"web/out/app.html"}}]
+Total time                                                   -- 317 ms
+build.dart finished [518 ms]
+
+---
+build.dart --machine --changed=web/app.html
+Total time spent on web/app.html                             -- 290 ms
+[{"method":"mapping","params":{"from":"web/app.html","to":"web/out/app.html"}}]
+Total time                                                   -- 314 ms
+build.dart finished [506 ms]
+
+---
+build.dart --machine --changed=web/products.dart
+Total time spent on web/app.html                             -- 288 ms
+[{"method":"mapping","params":{"from":"web/app.html","to":"web/out/app.html"}}]
+Total time                                                   -- 312 ms
+build.dart finished [514 ms]
+
+---
+build.dart --machine --changed=pubspec.lock
+Total time                                                   --  15 ms
+build.dart finished [240 ms]
+
+---
+build.dart --machine --changed=web/app.dart --changed=web/views/contact.dart --changed=web/views/contact.html -...
+[{"method":"error","params":{"file":"web/app.html","message":"unable to open file \"web/contact.html\"","line":14,"charStart":345,"charEnd":384}}]
+Total time spent on web/app.html                             -- 231 ms
+Total time                                                   -- 254 ms
+build.dart finished [453 ms]
+
+---
+build.dart --machine --changed=web/app.html
+Total time spent on web/app.html                             -- 323 ms
+[{"method":"mapping","params":{"from":"web/app.html","to":"web/out/app.html"}}]
+Total time                                                   -- 349 ms
+build.dart finished [566 ms]
+
+---
+build.dart --machine --changed=web/app.dart --changed=web/views/products.dart --changed=web/views/products.html...
+[{"method":"error","params":{"file":"web/app.html","message":"unable to open file \"web/products.html\"","line":15,"charStart":395,"charEnd":435}}]
+Total time spent on web/app.html                             -- 225 ms
+Total time                                                   -- 248 ms
+build.dart finished [449 ms]
+
+---
+build.dart --machine --changed=web/app.html
+Total time spent on web/app.html                             -- 292 ms
+[{"method":"mapping","params":{"from":"web/app.html","to":"web/out/app.html"}}]
+Total time                                                   -- 317 ms
+build.dart finished [518 ms]
+
+---
+build.dart --machine --changed=pubspec.lock
+Total time                                                   --  15 ms
+build.dart finished [238 ms]
+
+---
+build.dart --machine --changed=web/app.html
+Total time spent on web/app.html                             -- 304 ms
+[{"method":"mapping","params":{"from":"web/app.html","to":"web/out/app.html"}}]
+Total time                                                   -- 327 ms
+build.dart finished [527 ms]
+
+---
+build.dart --machine --changed=pubspec.lock
+Total time                                                   --  15 ms
+build.dart finished [237 ms]
+
+---
+build.dart --machine --changed=pubspec.lock
+Total time                                                   --  15 ms
+build.dart finished [251 ms]
+
+---
+build.dart --machine --changed=web/assets/app.css --removed=web/app.css
+Total time                                                   --  15 ms
+build.dart finished [219 ms]
+
+---
+build.dart --machine --changed=web/dart/app.dart --removed=web/app.dart
+[{"method":"warning","params":{"file":"web/app.html","message":"unable to open file \"web/app.css\"","line":7,"charStart":114,"charEnd":152}}]
+[{"method":"error","params":{"file":"web/app.html","message":"unable to open file \"web/app.dart\"","line":27,"charStart":733,"charEnd":780}}]
+Total time spent on web/app.html                             -- 161 ms
+Total time                                                   -- 184 ms
+build.dart finished [384 ms]
+
+---
+build.dart --machine --changed=web/views/footer.html --changed=web/views/header.html --removed=web/footer.html ...
+[{"method":"error","params":{"file":"web/app.html","message":"unable to open file \"web/header.html\"","line":10,"charStart":215,"charEnd":253}}]
+[{"method":"error","params":{"file":"web/app.html","message":"unable to open file \"web/footer.html\"","line":11,"charStart":258,"charEnd":296}}]
+[{"method":"warning","params":{"file":"web/app.html","message":"unable to open file \"web/app.css\"","line":7,"charStart":114,"charEnd":152}}]
+[{"method":"error","params":{"file":"web/app.html","message":"unable to open file \"web/app.dart\"","line":27,"charStart":733,"charEnd":780}}]
+[{"method":"warning","params":{"file":"web/app.html","message":"custom element with tag name header-component not found.","line":18,"charStart":466,"charEnd":484}}]
+[{"method":"warning","params":{"file":"web/app.html","message":"custom element with tag name footer-component not found.","line":25,"charStart":686,"charEnd":704}}]
+Total time spent on web/app.html                             -- 143 ms
+Total time                                                   -- 166 ms
+build.dart finished [366 ms]
+
+---
+build.dart --machine --changed=web/app.html
+[{"method":"error","params":{"file":"web/app.html","message":"unable to open file \"web/footer.html\"","line":11,"charStart":264,"charEnd":302}}]
+[{"method":"warning","params":{"file":"web/app.html","message":"unable to open file \"web/app.css\"","line":7,"charStart":114,"charEnd":152}}]
+[{"method":"error","params":{"file":"web/app.html","message":"unable to open file \"web/app.dart\"","line":27,"charStart":739,"charEnd":786}}]
+[{"method":"warning","params":{"file":"web/app.html","message":"custom element with tag name footer-component not found.","line":25,"charStart":692,"charEnd":710}}]
+Total time spent on web/app.html                             -- 159 ms
+Total time                                                   -- 183 ms
+build.dart finished [382 ms]
+
+---
+build.dart --machine --changed=web/app.html
+[{"method":"warning","params":{"file":"web/app.html","message":"unable to open file \"web/app.css\"","line":7,"charStart":114,"charEnd":152}}]
+[{"method":"error","params":{"file":"web/app.html","message":"unable to open file \"web/app.dart\"","line":27,"charStart":745,"charEnd":792}}]
+Total time spent on web/app.html                             -- 159 ms
+Total time                                                   -- 182 ms
+build.dart finished [384 ms]
+
+---
+build.dart --machine --changed=web/app.html
+[{"method":"warning","params":{"file":"web/app.html","message":"unable to open file \"web/app.css\"","line":7,"charStart":114,"charEnd":152}}]
+Total time spent on web/app.html                             -- 256 ms
+[{"method":"mapping","params":{"from":"web/app.html","to":"web/out/app.html"}}]
+Total time                                                   -- 280 ms
+build.dart finished [484 ms]
+
+---
+build.dart --machine --changed=web/app.html
+Total time spent on web/app.html                             -- 304 ms
+[{"method":"mapping","params":{"from":"web/app.html","to":"web/out/app.html"}}]
+Total time                                                   -- 329 ms
+build.dart finished [531 ms]
+
+---
+build.dart --machine --removed=web/webuidifferentviews.css --removed=web/webuidifferentviews.dart --removed=web...
+Total time spent on web/app.html                             -- 297 ms
+[{"method":"mapping","params":{"from":"web/app.html","to":"web/out/app.html"}}]
+Total time                                                   -- 321 ms
+build.dart finished [524 ms]
+
+---
+build.dart --machine --changed=src/app.html --changed=src/assets/app.css --changed=src/dart/app.dart --changed=...
+error unable to open file "web/app.html"
+Total time spent on web/app.html                             --  15 ms
+Total time                                                   --  39 ms
+build.dart finished [244 ms]
+
+---
+build.dart --machine --changed=src/main/dart/app.html --changed=src/main/dart/assets/app.css --changed=src/main...
+error unable to open file "web/app.html"
+Total time spent on web/app.html                             --  18 ms
+Total time                                                   --  45 ms
+build.dart finished [260 ms]
+
+---
+build.dart --machine --changed=src/main/webapp/app.html --changed=src/main/webapp/app.html_bootstrap.dart --cha...
+Unhandled exception:
+FormatException: Could not find an option with short name "-x".
+#0      Parser.validate (package:args/src/parser.dart:264:21)
+#1      Parser.parseAbbreviation (package:args/src/parser.dart:164:15)
+#2      Parser.parse (package:args/src/parser.dart:79:28)
+#3      ArgParser.parse (package:args/args.dart:350:50)
+#4      _processArgs (package:web_ui/component_build.dart:157:26)
+#5      build.<anonymous closure> (package:web_ui/component_build.dart:41:28)
+#6      asyncTime (package:web_ui/src/utils.dart:69:18)
+#7      build (package:web_ui/component_build.dart:40:19)
+#8      main (file:///Users/mikemitterer/dart/WebUIDifferentViews/build.dart:10:8)
+build.dart finished [238 ms]
+
+---
+build.dart --machine --changed=src/main/webapp/app.html --changed=src/main/webapp/app.html_bootstrap.dart --cha...
+
+build.dart finished [200 ms]
+
