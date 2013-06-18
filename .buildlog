@@ -319,3 +319,38 @@ build.dart --machine --changed=src/main/webapp/app.html
 
 build.dart finished [201 ms]
 
+---
+build.dart --machine --changed=src/main/webapp/assets/test.css
+
+build.dart finished [235 ms]
+
+---
+build.dart --machine --changed=src/main/webapp/assets/test.css
+
+build.dart finished [207 ms]
+
+---
+build.dart --machine --changed=src/main/webapp/assets/app.css
+
+build.dart finished [199 ms]
+
+---
+build.dart --machine --changed=src/main/webapp/app.html --changed=src/main/webapp/app.html_bootstrap.dart --cha...
+
+build.dart finished [196 ms]
+
+---
+build.dart --machine --removed=src/main/webapp/assets/test.css
+
+build.dart finished [216 ms]
+
+---
+build.dart --machine --removed=src/main/webapp/app.html --removed=src/main/webapp/app.html_bootstrap.dart --rem...
+
+build.dart finished [203 ms]
+
+---
+build.dart --machine --changed=src/main/webapp/app.html --changed=src/main/webapp/app.html_bootstrap.dart --cha...
+
+build.dart finished [211 ms]
+
