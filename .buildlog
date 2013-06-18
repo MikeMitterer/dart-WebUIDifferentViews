@@ -314,3 +314,8 @@ build.dart --machine --changed=src/main/webapp/app.html_bootstrap.dart.js --chan
 
 build.dart finished [247 ms]
 
+---
+build.dart --machine --changed=src/main/webapp/app.html
+
+build.dart finished [201 ms]
+
